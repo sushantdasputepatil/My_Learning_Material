@@ -2,7 +2,7 @@
 
 Repository for My Learning Material contains links for various courses, useful github repos, documentation etc.
 
-[https://github.com/sushantdasputepatil/linux-insides]
+(https://github.com/sushantdasputepatil/linux-insides)
 
 [https://github.com/sushantdasputepatil/embedded-software-skills]
 
